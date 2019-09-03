@@ -1,12 +1,22 @@
 ul {color: white;
   background-color: green;
+  border: 5px solid green;
+  border-radius: 5px;
   }
   
 li {display: inline;
   }  
   
 li a {color: white;
+  text-decoration: none;
+  font-family: Calibri, sans-serif;
+  margin-right: 5px;
+  font-size: 20px;
   }  
+  
+li a:hover {
+  background-color: purple;
+}  
 
 h2, h4 {
   color: green;
