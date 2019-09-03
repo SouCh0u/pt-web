@@ -1,7 +1,8 @@
 ul {color: white;
-  background-color: green;
-  border: 5px solid green;
+  background-color: #30ba75;
+  border: 5px solid #30ba75;
   border-radius: 5px;
+  width: 100%;
   }
   
 li {display: inline;
@@ -15,7 +16,7 @@ li a {color: white;
   }  
   
 li a:hover {
-  background-color: purple;
+  background-color: #4cfca4;
 }  
 
 h2, h4 {
