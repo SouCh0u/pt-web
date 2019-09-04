@@ -8,7 +8,7 @@ ul {color: white;
 li {display: inline;
   }  
   
-nav a { 
+nav li a { 
   color: white;
   text-decoration: none;
   font-family: Calibri, sans-serif;
@@ -17,8 +17,10 @@ nav a {
   padding: 5px;
   }  
   
-li a:hover {
+nav li a:hover {
+  color: white;
   background-color: #4cfca4;
+  text-decoration: none;
 }  
 
 h2, h4 {
