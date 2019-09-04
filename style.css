@@ -11,8 +11,9 @@ li {display: inline;
 li a {color: white;
   text-decoration: none;
   font-family: Calibri, sans-serif;
-  margin-right: 5px;
+  margin-right: 10px;
   font-size: 20px;
+  padding: 5px;
   }  
   
 li a:hover {
@@ -31,4 +32,8 @@ h2 {
 
 p {
   font-family: Calibri, sans-serif;
+}
+
+img {
+  width: 100%;
 }
