@@ -106,4 +106,10 @@ h5 {
     border: 5px solid #30ba75;
     border-radius: 5px;
   }
+  
+  .fa {
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+  }
  
