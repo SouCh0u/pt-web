@@ -5,6 +5,7 @@
   width: 80%;
   margin-right: 5px;
   }
+  
 
 ul {
   color: white;
@@ -77,3 +78,20 @@ h5 {
     width: 80px;
     border-radius: 50%;
   }
+  
+  
+  .aboutp img {
+    float: left;
+    display: inline;
+    height: 100px;
+    width: 80px;
+    border-radius: 50%;
+  }
+  
+  .aboutp p {
+  float: left;
+  display: inline;
+  width: 80%;
+  margin-left: 10px;
+  }
+ 
