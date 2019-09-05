@@ -1,4 +1,5 @@
-ul {color: white;
+ul {
+  color: white;
   background-color: #30ba75;
   border: 5px solid #30ba75;
   border-radius: 5px;
@@ -23,8 +24,8 @@ nav li a:hover {
   text-decoration: none;
 }  
 
-h2, h4 {
-  color: green;
+h2, h3, h4 {
+  color: #30ba75;
   font-family: Calibri, sans-serif;
   font-weight: bold;
 }
