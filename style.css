@@ -4,7 +4,7 @@
   
 nav {
   position: sticky;
-  top: 0px;
+  top: 0;
 }
 
 ul {
@@ -12,17 +12,17 @@ ul {
   background-color: #30ba75;
   border: 5px solid #30ba75;
   border-radius: 5px;
-  width: 100%;
+  width: 90%
   }
   
-li {display: inline;
+li {
+  display: inline;
   }  
   
 nav li a { 
   color: white;
   text-decoration: none;
   font-family: Calibri, sans-serif;
-  margin-right: 10px;
   font-size: 20px;
   padding: 5px;
   }  
@@ -52,9 +52,6 @@ p {
   font-family: Calibri, sans-serif;
 }
 
-nav ul {
-  width: 100%;
-}
 
 .heading {
   width: 100%;
