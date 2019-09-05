@@ -1,5 +1,7 @@
 .main {
   margin-left: 10px; 
+  float: left;
+  width: 70%;
   }
   
 nav {
@@ -52,7 +54,7 @@ p {
   font-family: Calibri, sans-serif;
 }
 
-img {
+.heading {
   width: 100%;
 }
 
@@ -64,4 +66,14 @@ section a {
 h5 {
   color: black;
   font-family: Calibri, sans-serif;
+}
+
+.profile {
+  float: right;
+}
+
+.profile img {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
 }
