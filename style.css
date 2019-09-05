@@ -1,5 +1,8 @@
 .main {
   margin-left: 10px; 
+  float: left; 
+  display: inline; 
+  width: 60%;
   }
   
 nav {
@@ -67,3 +70,15 @@ h5 {
   color: black;
   font-family: Calibri, sans-serif;
 }
+
+.profile {
+  float: left; 
+  display: inline; 
+  width: 30%;
+  }
+  
+  .profile img {
+    height: 100px;
+    width: 80px;
+    border-radius: 50%;
+  }
