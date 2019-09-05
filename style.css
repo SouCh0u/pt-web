@@ -4,6 +4,7 @@
   display: inline; 
   width: 80%;
   margin-right: 5px;
+  margin-bottom: 20px;
   }
   
 
@@ -94,5 +95,15 @@ h5 {
   display: inline;
   width: 80%;
   margin-left: 10px;
+  }
+  
+  footer {
+    color: white;
+    text-align: center;
+    background-color: #30ba75;
+    float: left;
+    width: 100%;
+    border: 5px solid #30ba75;
+    border-radius: 5px;
   }
  
